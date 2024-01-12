@@ -2,8 +2,8 @@ from service_utils import start_work
 
 
 if __name__ == '__main__':
-    start_work(input_file_path='input_csv.csv',
-               output_file_path='output.csv')
+    start_work(input_file_path=r'input_csv.csv',
+               output_file_path=r'output.csv')
 
 """ 
 Для работы скрипта нужно указать пути для входного и выходного файлов .CSV
