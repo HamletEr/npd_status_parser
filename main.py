@@ -2,7 +2,7 @@ from service_utils import start_work
 
 
 if __name__ == '__main__':
-    start_work(input_file_path=r'input_csv.csv',
+    start_work(input_file_path=r'input.csv',
                output_file_path=r'output.csv')
 
 """ 
